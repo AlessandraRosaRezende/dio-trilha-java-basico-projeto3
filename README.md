@@ -1,2 +1,3 @@
-# dio-trilha-java-basico-projeto3
-Repositório para armazenar o 3 projeto
+Desafio POO
+
+Repositório para armazenar o 3º projeto do Bootcamp
